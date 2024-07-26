@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #31e43c;
+    color: rgb(4, 4, 4);
+}
+
+.clock {
+    font-size: 10vw;
+    border: 20px solid #d20c0c;
+    padding:  20PX 20px;
+    border-radius: solid 25px;
+    -webkit-border-radius: solid 25px;
+    -moz-border-radius: solid 25px;
+    -ms-border-radius: solid 25px;
+    -o-border-radius: solid 25px;
+}
